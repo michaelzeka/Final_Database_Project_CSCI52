@@ -1,0 +1,2 @@
+#data definiition language statements create, modify or delete db objects
+#each table and view in the db should have a file in this branch that contains its ddl statement
